@@ -32,7 +32,7 @@ Performed brute-force password testing using Hydra against a locally hosted OWAS
    - Captured the POST request in Burp  
    - Analyzed login parameters (email and password)
   
-   - <img width="764" height="338" alt="Screenshot_2026-04-07_10-01-53" src="https://github.com/user-attachments/assets/d351641e-3343-4da3-ba53-fa8af7a0c538" />
+   - <img width="1920" height="1045" alt="Screenshot_2026-03-25_20-04-28" src="https://github.com/user-attachments/assets/e79d7cb8-2c21-489d-ba79-94cb720b3c7c" />
 
 
 7. Prepared for brute-force testing  
