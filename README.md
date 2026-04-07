@@ -23,7 +23,7 @@ Performed brute-force password testing using Hydra against a locally hosted OWAS
    - Opened OWASP Juice Shop via localhost  
    - Verified traffic was being captured in Burp Suite
   
-   - <img width="1920" height="1045" alt="Screenshot_2026-03-25_20-02-59" src="https://github.com/user-attachments/assets/707904d8-a156-4102-87ef-2c9f65a7a8b4" />
+   - <img width="1920" height="1045" alt="Screenshot_2026-03-25_20-03-41" src="https://github.com/user-attachments/assets/838abd8d-31b3-4f65-a651-70f752b30f91" />
 
 
 6. Identified the login request  
